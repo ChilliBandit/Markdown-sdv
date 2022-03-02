@@ -16,3 +16,7 @@
 [title](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 `console.log("Hello World!")`
+
+-[x] Write Read me repo
+-[] Update repository
+-[] Fix bug
