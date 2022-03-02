@@ -20,3 +20,5 @@
 -[x] Write Read me repo
 -[ ] Update repository
 -[ ] Fix bug
+
+That is so funny! :joy:
